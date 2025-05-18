@@ -2,9 +2,9 @@
 
 O ChatPDF é um projeto que permite a interação com documentos PDF por meio de um chatbot. 
 
-## Demo App
+## Confira o projeto aqui! 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://descbot-uerj.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://descbot-uerj.streamlit.app/)
 
 ## Introdução
 
